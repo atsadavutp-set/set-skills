@@ -1,0 +1,32 @@
+{
+  "name": "set-skills",
+  "skills": [
+    "./skills/engineering/story-refinement",
+    "./skills/engineering/test-plan",
+    "./skills/engineering/test-spec",
+    "./skills/engineering/test-data-blueprint",
+    "./skills/engineering/dev-handoff",
+    "./skills/engineering/pr-test-gate",
+    "./skills/engineering/regression-scope",
+    "./skills/engineering/run-report",
+    "./skills/engineering/test-mantra",
+    "./skills/engineering/ci-pipeline-triage",
+    "./skills/engineering/scrutinize-tests",
+    "./skills/engineering/defect-report",
+    "./skills/engineering/flaky-hunt",
+    "./skills/productivity/bug-triage",
+    "./skills/productivity/smoke-suite",
+    "./skills/productivity/escaped-defect",
+    "./skills/productivity/release-readiness",
+    "./skills/productivity/qa-status-talk",
+    "./skills/productivity/session-debrief",
+    "./skills/frameworks/jest-patterns",
+    "./skills/frameworks/playwright-patterns",
+    "./skills/frameworks/robot-patterns",
+    "./skills/frameworks/exploratory-charter",
+    "./skills/misc/feature-flag-test",
+    "./skills/misc/test-debt-audit",
+    "./skills/misc/env-readiness",
+    "./skills/misc/blocker-escalate"
+  ]
+}
